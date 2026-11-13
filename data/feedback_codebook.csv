@@ -1,0 +1,10 @@
+field_name,survey_item_description,data_type,response_coding
+response_id,Survey response identifier,String,Unique identifier
+student_id,Student id,String,Student ID
+survey_date,Date of survey response,Date,YYYY-MM-DD
+belonging_rating,I feel like part of the campus community.,Ordinal numeric,1 = Strongly disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly agree
+stress_level,How would you rate your stress this month?,Ordinal numeric,1 = Very low; 2 = Low; 3 = Moderate; 4 = High; 5 = Very high
+loneliness_frequency,How often have you felt isolated recently?,Ordinal numeric,1 = Rarely; 2 = Sometimes; 3 = Often
+support_rating,How much support do you have from people you trust?,Ordinal numeric,1 = None; 2 = A little; 3 = Some; 4 = A lot; 5 = A great deal
+resources_awareness,Do you know where to find wellbeing resources on campus?,Categorical,Yes; No; Not sure
+food_or_housing_concern,Have food or housing worries affected you this term?,Categorical,Yes; No; Prefer not to answer

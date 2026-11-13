@@ -1,0 +1,11 @@
+space_id,space_name,space_type,location,indoor_outdoor
+S101,Rec Center Lobby,Recreation,East Campus,Indoor
+S102,Library Commons,Study,Central Campus,Indoor
+S103,Union Food Court,Dining,Student Union,Indoor
+S104,Transit Center Plaza,Transit,South Campus,Outdoor
+S105,Engineering Courtyard,Outdoor,West Campus,Outdoor
+S106,Residence Hall Lounge,Housing,North Campus,Indoor
+S107,Arts Plaza,Outdoor,Central Campus,Outdoor
+S108,24-Hour Study Room,Study,Central Campus,Indoor
+S109,Career Center Atrium,Services,Student Union,Indoor
+S110,Parking Structure 3 Bridge,Transit,South Campus,Outdoor
